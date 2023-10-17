@@ -1,0 +1,230 @@
+body{
+   background-image:url(billionphotos.jpg/888-min.jpg) ;
+   background-size:99% 900px;
+   background-repeat: no-repeat;
+   /* background-attachment:fixed; */
+
+}
+ h4{
+    margin-top:200px;
+    font-size:22px;
+ }
+ h1{
+    font-size:50px;
+ }
+p{
+   font-size:1.25em; 
+}
+.section-2{
+   width:99%;
+   height:510px;
+   background-color: rgb(49, 49, 233);
+   margin-top: 340px;
+   overflow-x: hidden;
+}
+.hd-cont{
+   color:white;
+   margin-left:150px;
+   font-size:60px;
+   padding-top:100px; 
+}
+.u-text-1{
+   font-size:2.250rem;
+   color:white;
+   padding-top:130px;
+   margin-left:100px;
+}
+.u-text-2{
+   font-size:2.250rem;
+   color:white;
+   padding-top:130px;
+   margin-right:100px;
+}
+.u-btn{
+   font-size:14px;
+    letter-spacing:1px;
+    font-weight: 700;
+    padding:13px 66px 14px;
+}
+.section-3{
+   background-color:#f2f2f2;
+   width:99%;
+   margin-top:-59px ;
+}
+ .u-shape-rectangle{
+   width:450px;
+   height:800px;
+   background-color: rgb(54, 54, 206);
+   animation-duration: 1500ms;
+   margin: 70px 250px 0 auto;
+}
+img{
+   width:800px; 
+   height:500px;
+   margin-top:-900px;
+   margin-left:450px;
+   z-index: -1;
+}
+.u-mid-layout{
+   position: absolute;
+   width:600px;
+   height:350px ;
+   background-color:white;
+   margin-top:-440px;
+   margin-left:200px;
+   z-index: 1;
+}
+h3{
+   font-size:42px;
+   padding-left:30px ;
+   font-family: "Roboto,sans-serif";
+}
+
+.u-btn-2{
+   font-size:20px;
+   letter-spacing:1px;
+   font-weight:700;
+   padding: 10px 45px 10px 44px;
+   background-color:#3154d1;
+   margin:34px 20px 10px 25px;
+   color:white ;
+}  
+.u-our{
+   color:#3154d1;
+   text-align: center;
+   padding-top: 0px;
+   font-size:4rem;
+}
+.u-ref{
+   text-align:center;
+   margin:30px auto 0 ; 
+   padding-left:150px;
+}
+
+.contentArea-1{
+   background-color:#f2f2f2; 
+   width:380px;
+   height:300px;
+   margin-left:170px; 
+}
+.fa-user-md{
+   font-size:30px;
+   padding-left:130px;
+   margin-top:30px;
+}
+ .contentArea-2{ 
+   background-color:#f2f2f2;
+   width:380px; 
+   height:300px;
+   margin-left:80px;
+}
+ .fa-hospital-o{
+   font-size:30px;
+   padding-left:130px;
+   margin-top:30px;
+}  
+.contentArea-3{ 
+   background-color:#f2f2f2;
+   width:380px; 
+   height:300px;
+}
+.fa-heartbeat{
+   font-size:30px;
+   padding-left:130px;
+   margin-top:30px;
+}  
+.contentArea-01{
+   background-color:#f2f2f2; 
+   width:380px;
+   height:300px;
+   margin-left:170px;
+   margin-top:50px; 
+}
+.fa-wheelchair{
+   font-size:30px;
+   padding-left:160px;
+   margin-top:30px;
+}
+ .contentArea-02{ 
+   background-color:#f2f2f2;
+   width:380px; 
+   height:300px;
+   margin-left:80px;
+   margin-top:50px;
+}
+ .fa-h-square{
+   font-size:30px;
+   padding-left:160px;
+   margin-top:30px;
+}  
+.contentArea-03{ 
+   background-color:#f2f2f2;
+   width:380px; 
+   height:300px;
+   margin-top:50px;
+}
+.fa-stethoscope{
+   font-size:30px;
+   padding-left:160px;
+   margin-top:30px;
+} 
+.btn-con{
+   background-color: #4867d6; 
+   font-size:20px; 
+   width:200px;
+   height:60px;
+   text-align: center;
+   margin-left:700px;
+   margin-top:50px;
+} 
+.img-01{
+   width:660px;
+   height:510px;
+   margin:auto;
+   margin-left:50px;
+   margin-top:100px;
+   z-index:-1;
+}
+.u-bgn{
+    width:450px;
+    height:450px;
+    background-color:#4867d6;
+    position: absolute; 
+    z-index:1;
+    margin-top:-220px;
+    margin-left:120px;
+}
+.u-text{
+   color: white;
+   font-size:48px;
+   padding:20px;
+   font-weight:700;
+}
+h5{
+    font-size:22px;
+    line-height:1.2px;
+    margin-top:100px;
+    font-weight: 700;
+    color: #4867d6;
+}
+
+.input1{
+   width:466px;
+   margin:100px auto 0 100px ;
+   height:40px;
+   font-size: 16px;
+   padding:10px 12px;
+}
+.input2{
+   width:466px;
+   height:40px;
+   font-size: 16px;
+   margin-left:100px;
+   padding:10px 12px;
+}
+.btn{
+   width: 466px;
+   border:2px solid white;
+   margin-left:100px;
+   background-color:white !important;
+}
